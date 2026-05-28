@@ -1,0 +1,14 @@
+```
+# Directories
+mkv-merge-pro/
+
+# If mkv-merge-pro contains build artifacts or dependencies, consider these patterns:
+# build/
+# dist/
+# node_modules/
+# __pycache__/
+# *.pyc
+# .env
+# .vscode/
+# .idea/
+```
